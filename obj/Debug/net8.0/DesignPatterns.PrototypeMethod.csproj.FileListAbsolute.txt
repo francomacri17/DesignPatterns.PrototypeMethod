@@ -1,0 +1,14 @@
+/Users/Repos/DesignPatterns.PrototypeMethod/bin/Debug/net8.0/DesignPatterns.PrototypeMethod
+/Users/Repos/DesignPatterns.PrototypeMethod/bin/Debug/net8.0/DesignPatterns.PrototypeMethod.deps.json
+/Users/Repos/DesignPatterns.PrototypeMethod/bin/Debug/net8.0/DesignPatterns.PrototypeMethod.runtimeconfig.json
+/Users/Repos/DesignPatterns.PrototypeMethod/bin/Debug/net8.0/DesignPatterns.PrototypeMethod.dll
+/Users/Repos/DesignPatterns.PrototypeMethod/bin/Debug/net8.0/DesignPatterns.PrototypeMethod.pdb
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.AssemblyInfoInputs.cache
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.AssemblyInfo.cs
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.csproj.CoreCompileInputs.cache
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.dll
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/refint/DesignPatterns.PrototypeMethod.dll
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.pdb
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/DesignPatterns.PrototypeMethod.genruntimeconfig.cache
+/Users/Repos/DesignPatterns.PrototypeMethod/obj/Debug/net8.0/ref/DesignPatterns.PrototypeMethod.dll
